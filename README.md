@@ -1,5 +1,4 @@
 
-```
 # Exercise-05d-Networked-Game
 
 Exercise for MSCH-C220
@@ -23,4 +22,3 @@ None
 ## Created by 
 
 Taylor Braunsdorf
-```
